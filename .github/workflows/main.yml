@@ -1,6 +1,6 @@
 name: NCM v3
 run-name: NCM Gates
-on: [push]
+on: push
 jobs:
 
   deployment-dev:
