@@ -21,7 +21,8 @@
     "pg": "^8.7.1",
     "semver": "^5.6.0",
     "spdx-satisfies": "^4.0.0",
-    "stats-lite": "^2.2.0"
+    "stats-lite": "^2.2.0",
+    "express": "1.0.0"
   },
   "devDependencies": {
     "async": "^2.6.1",
