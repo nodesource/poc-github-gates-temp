@@ -2,6 +2,7 @@
   "name": "test",
   "dependencies": {
     "aws-sdk": "2.1361.0",
-    "pg": "^8.7.1"
+    "pg": "^8.7.1",
+    "express": "1.0.0"
   }
 }
